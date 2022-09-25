@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "name": "test",
+      "size": "50 Kb",
+      "uploader": "Salah",
+      "createdAt": "2019-01-01T00:00:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@email.com",
+      "password": "$2a$10$FFQ/6MmgT8dS4Y4ZdJM9bejZH6oXp35soX9WKJGfmge95DwLwNgAy",
+      "username": "",
+      "id": 1
+    },
+    {
+      "email": "test@email.come",
+      "password": "$2a$10$wWSS2LzbQ8I4btW0jg1osORiI4YXFQBnwuqEjw6a0rfzgeQX0ZvdO",
+      "role": "user",
+      "username": "adf",
+      "id": 2
+    },
+    {
+      "email": "qew@test.com",
+      "password": "$2a$10$YJ4QJupT1xJh/SclJ2P.cuVdQA0iXlvpgPX.t5bQ6QDk/YxoO5xsq",
+      "username": "test",
+      "id": 3
+    }
+  ]
+}
