@@ -1,9 +1,7 @@
 # how to run
 
-- npm i -g express json-server json-server auth
-- npm i
-- json-server-auth mock-data.json
-- npm run start
+- npm install
+- npm start
 
 ---
 
